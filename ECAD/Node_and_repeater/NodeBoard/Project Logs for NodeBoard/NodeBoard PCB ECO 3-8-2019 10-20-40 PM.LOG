@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=+5 Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=SCL0 Pin=U4-3
+Removed Pin From Net: NetName=SDA0 Pin=U4-4
+Removed Member From Class: ClassName=NodeBoard Member=U4
+Added Room: Name=NodeBoard
