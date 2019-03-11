@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=D13 New Net Name=+5
+Change Net Name : Old Net Name=SCL0 New Net Name=SDA0
+Added Pin To Net: NetName=D13 Pin=U1-35
+Added Net: Name=D13
+Added Pin To Net: NetName=SCL0 Pin=U1-41
+Added Net: Name=SCL0
+Added Member To Class: ClassName=NodeBoard Member=Component U2 LoRa Radio Transceiver Module
+Added Room: Name=NodeBoard

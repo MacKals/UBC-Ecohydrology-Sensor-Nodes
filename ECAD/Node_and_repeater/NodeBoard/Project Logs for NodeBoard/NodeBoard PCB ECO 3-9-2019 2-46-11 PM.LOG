@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=+5 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-2
+Added Component: Designator=U2(RFM9x)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://cdn-learn.adafruit.com/assets/assets/000/031/659/original/RFM95_96_97_98W.pdf?1460518717"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.adafruit.com/product/3072"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Digikey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "https://www.digikey.ca/product-detail/en/rf-solutions/RFM95W-915S2/RFM95W-915S2-ND/6564923"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "RFM95W-915S2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1 = 13.84000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "802"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RFM95W-915S2-ND"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Room: Name=NodeBoard
