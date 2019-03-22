@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=NodeBoard Member=J9
+Added Member To Class: ClassName=NodeBoard Member=Component J10 TERM BLOCK PCB 4POS 3.5MM GREEN
+Added Member To Class: ClassName=NodeBoard Member=Component J11 TERM BLOCK PCB 4POS 3.5MM GREEN
+Added Room: Name=NodeBoard

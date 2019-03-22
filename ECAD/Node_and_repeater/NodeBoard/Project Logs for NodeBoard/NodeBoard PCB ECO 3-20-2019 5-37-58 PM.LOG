@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=NodeBoard Member=J14
+Change Component Designator: OldDesignator=J11 NewDesignator=J10
+Change Component Designator: OldDesignator=J11 NewDesignator=J21
+Change Component Designator: OldDesignator=J12 NewDesignator=J11
+Change Component Designator: OldDesignator=J12 NewDesignator=J20
+Change Component Designator: OldDesignator=J13 NewDesignator=J12
+Added Member To Class: ClassName=NodeBoard Member=Component J8 TERM BLOCK PCB 3POS 3.5MM GREEN
+Added Member To Class: ClassName=NodeBoard Member=Component J9 TERM BLOCK PCB 3POS 3.5MM GREEN
+Added Member To Class: ClassName=NodeBoard Member=Component J20 Battery Retainer Coin, 20.0mm 1 Cell SMD (SMT) Tab
+Added Member To Class: ClassName=NodeBoard Member=Component J21 Antenna connector
+Added Room: Name=NodeBoard
