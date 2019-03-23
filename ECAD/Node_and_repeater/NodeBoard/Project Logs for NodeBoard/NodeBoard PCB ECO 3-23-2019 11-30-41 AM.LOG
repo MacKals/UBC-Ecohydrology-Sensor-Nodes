@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=GND Pin=J03-2
+Removed Pin From Net: NetName=GND Pin=J03-4
+Removed Pin From Net: NetName=GND Pin=J03-6
+Removed Pin From Net: NetName=GND Pin=J03-8
+Removed Pin From Net: NetName=GND Pin=J03-10
+Removed Pin From Net: NetName=GND Pin=J03-12
+Removed Pin From Net: NetName=D4 Pin=J8-3
+Removed Pin From Net: NetName=D26 Pin=J10-3
+Removed Pin From Net: NetName=D26 Pin=J10-3
+Added Pin To Net: NetName=GND Pin=J03-1
+Added Pin To Net: NetName=D2 Pin=J03-2
+Added Pin To Net: NetName=GND Pin=J03-3
+Added Pin To Net: NetName=D3 Pin=J03-4
+Added Pin To Net: NetName=GND Pin=J03-5
+Added Pin To Net: NetName=D4 Pin=J03-6
+Added Pin To Net: NetName=GND Pin=J03-7
+Added Pin To Net: NetName=D5 Pin=J03-8
+Added Pin To Net: NetName=GND Pin=J03-9
+Added Pin To Net: NetName=D6 Pin=J03-10
+Added Pin To Net: NetName=GND Pin=J03-11
+Added Pin To Net: NetName=D7 Pin=J03-12
+Added Pin To Net: NetName=A6 Pin=U1-42
+Added Pin To Net: NetName=A7 Pin=U1-43
+Added Pin To Net: NetName=A8 Pin=U1-44
+Added Pin To Net: NetName=A9 Pin=U1-45
+Added Pin To Net: NetName=A1 Pin=U1-37
+Added Net: Name=A1
+Added Pin To Net: NetName=A2 Pin=U1-38
+Added Net: Name=A2
+Added Pin To Net: NetName=A3 Pin=U1-39
+Added Net: Name=A3
+Added Pin To Net: NetName=A4 Pin=U1-40
+Added Net: Name=A4
+Added Pin To Net: NetName=A5 Pin=U1-41
+Added Net: Name=A5
+Added Room: Name=NodeBoard

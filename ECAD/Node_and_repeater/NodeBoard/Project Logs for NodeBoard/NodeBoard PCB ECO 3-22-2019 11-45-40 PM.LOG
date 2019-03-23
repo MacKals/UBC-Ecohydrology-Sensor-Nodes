@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=D30 Pin=U2-11
+Removed Pin From Net: NetName=D29 Pin=U2-12
+Removed Pin From Net: NetName=D27 Pin=U2-15
+Removed Pin From Net: NetName=D26 Pin=U2-16
+Added Pin To Net: NetName=D26 Pin=U2-11
+Added Pin To Net: NetName=D27 Pin=U2-12
+Added Pin To Net: NetName=D29 Pin=U2-15
+Added Pin To Net: NetName=D30 Pin=U2-16

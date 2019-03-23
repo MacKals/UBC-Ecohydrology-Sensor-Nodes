@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=TX5 Pin=J6-3
+Removed Pin From Net: NetName=TX5 Pin=J6-3
+Removed Pin From Net: NetName=D2 Pin=J7-3
+Removed Pin From Net: NetName=D2 Pin=J7-3
+Removed Pin From Net: NetName=D3 Pin=J9-3
+Removed Pin From Net: NetName=D3 Pin=J9-3
+Removed Pin From Net: NetName=TX5 Pin=J20-2
+Removed Pin From Net: NetName=RX5 Pin=J20-3
+Added Pin To Net: NetName=TX1 Pin=J20-2
+Added Pin To Net: NetName=RX1 Pin=J20-3
+Added Room: Name=NodeBoard

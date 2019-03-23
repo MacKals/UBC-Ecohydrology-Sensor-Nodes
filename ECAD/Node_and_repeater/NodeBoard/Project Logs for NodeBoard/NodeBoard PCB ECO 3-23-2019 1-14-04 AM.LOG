@@ -1,0 +1,16 @@
+Change Physical Footprint: Designator=J01 Old Footprint=Coin Battery New Footprint=Coin Battery
+Change Physical Footprint: Designator=J02 Old Footprint=SMA Edge Connector New Footprint=SMA Edge Connector
+Change Physical Footprint: Designator=J2 Old Footprint=Terminal block SEN 3 pos New Footprint=Terminal block SEN 3 pos
+Change Physical Footprint: Designator=J3 Old Footprint=Terminal block SEN 3 pos New Footprint=Terminal block SEN 3 pos
+Change Physical Footprint: Designator=J4 Old Footprint=Terminal block SEN 3 pos New Footprint=Terminal block SEN 3 pos
+Change Physical Footprint: Designator=J5 Old Footprint=Terminal block SEN 3 pos New Footprint=Terminal block SEN 3 pos
+Change Physical Footprint: Designator=J6 Old Footprint=Terminal block SEN 3 pos New Footprint=Terminal block SEN 3 pos
+Change Physical Footprint: Designator=J7 Old Footprint=Terminal block SEN 3 pos New Footprint=Terminal block SEN 3 pos
+Change Physical Footprint: Designator=J8 Old Footprint=Terminal block SEN 3 pos New Footprint=Terminal block SEN 3 pos
+Change Physical Footprint: Designator=J9 Old Footprint=Terminal block SEN 3 pos New Footprint=Terminal block SEN 3 pos
+Change Physical Footprint: Designator=J10 Old Footprint=Terminal block SEN 3 pos New Footprint=Terminal block SEN 3 pos
+Change Physical Footprint: Designator=J20 Old Footprint=Terminal block 4 position New Footprint=Terminal block 4 position
+Change Physical Footprint: Designator=J21 Old Footprint=Terminal block 4 position New Footprint=Terminal block 4 position
+Change Physical Footprint: Designator=J22 Old Footprint=Terminal block 4 position New Footprint=Terminal block 4 position
+Change Physical Footprint: Designator=U1 Old Footprint=Teensy 3.6 New Footprint=Teensy 3.6
+Change Physical Footprint: Designator=U2 Old Footprint=RFM9x New Footprint=RFM9x

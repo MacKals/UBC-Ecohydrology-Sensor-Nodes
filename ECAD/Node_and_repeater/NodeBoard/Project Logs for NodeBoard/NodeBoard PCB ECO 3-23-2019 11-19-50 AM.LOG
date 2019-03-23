@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J10 Old Footprint=Terminal block SEN 3 pos New Footprint=Terminal Block Sen 3 pos jack
+Change Component Footprint: Designator=J8 Old Footprint=Terminal block SEN 3 pos New Footprint=Terminal block SEN 3 pos label
+Added Room: Name=NodeBoard

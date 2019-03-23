@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=A9 Pin=J21-2
+Removed Pin From Net: NetName=A8 Pin=J21-3
+Removed Pin From Net: NetName=A7 Pin=J22-2
+Removed Pin From Net: NetName=A6 Pin=J22-3
+Added Pin To Net: NetName=A6 Pin=J21-2
+Added Pin To Net: NetName=A7 Pin=J21-3
+Added Pin To Net: NetName=A4 Pin=J22-2
+Added Pin To Net: NetName=A5 Pin=J22-3
+Added Room: Name=NodeBoard

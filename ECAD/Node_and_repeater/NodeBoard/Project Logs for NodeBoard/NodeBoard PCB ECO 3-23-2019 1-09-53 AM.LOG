@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=D3 Pin=J8-3
+Removed Pin From Net: NetName=D4 Pin=J9-3
+Change Component Footprint: Designator=J1 Old Footprint=Audio Jack and Terminal New Footprint=Terminal Block Sen 3 pos jack
+Change Component Footprint: Designator=J2 Old Footprint=Terminal block 3 position New Footprint=Terminal block SEN 3 pos
+Change Component Footprint: Designator=J3 Old Footprint=Terminal block 3 position New Footprint=Terminal block SEN 3 pos
+Change Component Footprint: Designator=J4 Old Footprint=Terminal block 3 position New Footprint=Terminal block SEN 3 pos
+Change Component Footprint: Designator=J5 Old Footprint=Terminal block 3 position New Footprint=Terminal block SEN 3 pos
+Change Component Footprint: Designator=J6 Old Footprint=Terminal block 3 position New Footprint=Terminal block SEN 3 pos
+Change Component Footprint: Designator=J7 Old Footprint=Terminal block 3 position New Footprint=Terminal block SEN 3 pos
+Change Component Footprint: Designator=J8 Old Footprint=Terminal block 3 position New Footprint=Terminal block SEN 3 pos
+Change Component Footprint: Designator=J9 Old Footprint=Terminal block 3 position New Footprint=Terminal block SEN 3 pos
+Change Component Footprint: Designator=J10 Old Footprint=Terminal block 3 position New Footprint=Terminal block SEN 3 pos
+Added Pin To Net: NetName=D4 Pin=J8-3
+Added Pin To Net: NetName=D3 Pin=J9-3
+Added Room: Name=NodeBoard
